@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+*.pytest_cache
+.gitattributes
+!*.zip
+im.db
+*.csv
+*.tsv
+*.db
+Data/im.db/im.db
